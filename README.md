@@ -1,6 +1,3 @@
 # solafuneSR
-
-```python
-import numpy as np
-
-```
+solution.ipynb 
+solution.MD
