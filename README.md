@@ -1,3 +1,6 @@
 # solafuneSR
+
+https://solafune.com/ja/competitions
+
 solution.ipynb  
-solution.MD
+solution.md
