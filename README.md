@@ -1,3 +1,3 @@
 # solafuneSR
-solution.ipynb 
+solution.ipynb  
 solution.MD
