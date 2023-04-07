@@ -3,4 +3,4 @@
 https://solafune.com/ja/competitions
 
 solution.ipynb  
-solution.md
+ROOT 変えれば動くはず
